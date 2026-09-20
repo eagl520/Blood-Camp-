@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621062050446",
+    "project_id": "blood-camp-bano-qabil",
+    "storage_bucket": "blood-camp-bano-qabil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621062050446:android:4e57ae91a7794df4f62fdf",
+        "android_client_info": {
+          "package_name": "com.example.blood_camp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEp_vhLM4x2xVZx1Zym1QtYxSB-TcKag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
