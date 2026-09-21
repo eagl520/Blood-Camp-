@@ -76,7 +76,7 @@ Blood Camp uses Firebase Authentication and Firestore Security Rules to ensure:
 - VS Code
 
 ### 📂 Project Structure
-
+```
 lib/
 │
 ├─ main.dart
@@ -122,7 +122,7 @@ windows/
 macos/
 pubspec.yaml
 README.md
-
+```
 ### 🔥 Firestore Collections
 - Collection Purpose
 - users	All users (donors, staff, organizers) with role field
